@@ -23,6 +23,7 @@ object DatesetsOperations {
     val pplDS: Dataset[Person] = df.as[Person]
     
     pplDS.show()
+    
 
   }
 }
