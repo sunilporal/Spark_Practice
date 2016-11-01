@@ -39,4 +39,3 @@ object DataFramesPractice {
 
   }
 
-case class Person(id: Long, name: String, age: Long)
